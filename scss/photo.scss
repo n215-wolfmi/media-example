@@ -1,0 +1,31 @@
+.photos {
+    max-width: 940px;
+    min-height: 300px;
+    background-color: brown;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    
+    .photo {
+        max-width: 300px;
+
+        img {
+            display: block;
+        }
+
+        p {
+            font-size: 11px;
+            font-style: italic;
+            text-align: center;
+        }
+    }
+    
+}
+
+@media screen and (max-width: 1000px) {
+    .photos {
+        flex-direction: column;
+        width: 300px;
+        min-height: 940px;
+    }
+}

@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   }
+   html, body {
+    height: 100%;
+    background-color: white;
+    position: relative;
+   }
+   h1, h2, h3, h4, h5, h6, p {
+    margin-bottom: 16px;
+   }
+   
+    // .wrapper {
+    //    min-height: 500px;
+    //    width: 70%;
+    //    background-color: beige;
+    //    margin: 0 auto;
+
+    //    .box {
+    //        width: 50%;
+    //        height: 200px;
+    //        background-color: aqua;
+    //    }
+
+    //    .media-box {
+    //        width: 600px;
+    //        height: 100px;
+    //        background-color: brown;
+    //    }
+    // }
+
+    // @media screen and (max-width: 1000px) and (min-width: 800px) {
+    //     .wrapper {
+    //         background-color: chocolate;
+    //     }
+    // }
+
+    // @media all and (max-width: 600px) {
+    //    .wrapper {
+    //        .media-box {
+    //            width: 300px;
+    //        }
+    //    }
+    // }
