@@ -3,6 +3,6 @@
 
 ## Description
 
-This is an example of media queries that we practiced in class. .
+This is an example of media queries that we practiced in class.
 
 https://web4Link.com
